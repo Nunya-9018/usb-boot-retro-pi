@@ -10,5 +10,6 @@ this custom raspberry pi os with retro pi pre installed ,it also comes with a bu
  
  ![Screenshot of raspberry pi imager](https://i.imgur.com/se4UQId.png)
  
- This custom raspberry pi os has retro pi pre installed, it also comes with a bunch of pre installed retro pi emulation cores.
+ This image is a custom version of retro pi, which is based off of raspberry pi os.
+ It also comes with more preinstalled emulators than the prebuilt image of retro pi.
 
