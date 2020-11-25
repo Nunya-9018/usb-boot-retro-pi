@@ -1,6 +1,7 @@
 # usb-boot-retro-pi
 This image is a custom version of retro pi, which is based off of raspberry pi os.  
 It also comes with more preinstalled emulators than the prebuilt image of retro pi.
+
 this image was built on raspberry pi4
 
 ## To install: 
