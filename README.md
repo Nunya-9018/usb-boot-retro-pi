@@ -6,4 +6,7 @@ this custom raspberry pi os with retro pi pre installed ,it also comes with a bu
  - Then use BalenaEtcher or Raspberry Pi Imager to flash the image to your SD Card.
  
  ![Screenshot of balenaEtcher](https://i.imgur.com/jGpdUqj.png)
+ 
+ 
+ ![Screenshot of raspberry pi imager](https://i.imgur.com/se4UQId.png)
 
